@@ -1,4 +1,0 @@
-defaultGdbCommand=/usr/local/Cellar/gdb/8.2/bin/gdb
-defaultGdbInit=/Users/raswantkoushikpeesapati/.gdbinit
-eclipse.preferences.version=1
-tracesEnable=true
