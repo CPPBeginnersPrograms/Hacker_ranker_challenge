@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:cal fraction of positive, negative and zero in an array,org.eclipse.launchbar.core.descriptorType.default\:calc fractions of pos,neg and zero in an array,org.eclipse.launchbar.core.descriptorType.default\:Finding difference of two diagonals in a matrix
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Finding\ difference\ of\ two\ diagonals\ in\ a\ matrix/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Finding\ difference\ of\ two\ diagonals\ in\ a\ matrix/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:cal\ fraction\ of\ positive,\ negative\ and\ zero\ in\ an\ array/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:cal\ fraction\ of\ positive,\ negative\ and\ zero\ in\ an\ array/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:calc\ fractions\ of\ pos,neg\ and\ zero\ in\ an\ array/activeLaunchMode=debug

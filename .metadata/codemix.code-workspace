@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "/Users/raswantkoushikpeesapati/Hackerrankerchallenges/Finding difference of two diagonals in a matrix"
+    },
+    {
+      "path": "/Users/raswantkoushikpeesapati/Hackerrankerchallenges/RemoteSystemsTempFiles"
+    },
+    {
+      "path": "/Users/raswantkoushikpeesapati/Hackerrankerchallenges/calc fractions of pos,neg and zero in an array"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "javascript.implicitProjectConfig.checkJs": true
+  }
+}
